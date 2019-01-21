@@ -1,2 +1,10 @@
 prose:
     siteurl: "http://frequencycentral.github.io/"
+    metadata:
+      _posts:
+        - name: "background"
+          field:
+            element: "image"
+            placeholder: "your-posts-title-beauty.jpg"
+            label: "Background Image"
+            help: "Make sure you upload the image first!"
