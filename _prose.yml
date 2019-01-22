@@ -8,3 +8,9 @@ prose:
             placeholder: "your-posts-title-beauty.jpg"
             label: "Background Image"
             help: "Make sure you upload the image first!"
+        - name: "other-image"
+          field:
+            element: "image"
+            placeholder: "your-posts-title-beauty.jpg"
+            label: "Background Image 2"
+            help: "Make sure you upload the image first!"
